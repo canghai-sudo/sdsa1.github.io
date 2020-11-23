@@ -1,0 +1,8 @@
+回声“＃sdsa1.github.io” >> README.md 
+git init 
+git add README.md 
+git commit -m“首次提交” 
+git branch -M main 
+git远程添加来源https://github.com/sdsa1/sdsa1。 github.io.git
+ git push -u起源主
+                
